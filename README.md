@@ -11,6 +11,7 @@
 <br>
 
 <pre>$ keybase pgp pull evan</pre>
+<code>50D7 D465 F9FB DA75</code>
 
 
 
@@ -22,6 +23,6 @@
 
 
 <hr>
-<b>50D7 D465 F9FB DA75</b>
+ 
 
 
