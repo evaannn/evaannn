@@ -4,5 +4,24 @@
 <sup>programmer. i know js, lua, python and some php. </sup>
 <br><sup>website: <a href='https://evan.systems'>evan.systems</a></sup>
 
+<sup> i run <a href='https://lulzb.in'>lulzb.in</a> and other tomfoolery projects lol </sup>
 
-<footer> PHP IS A NIGHTMARE PLEASE ENABLE MOD_WSGI HOLY AMBATUKAM </footer>
+
+<hr>
+<br>
+
+<pre>$ keybase pgp pull evan</pre>
+
+
+
+
+
+
+
+
+
+
+<hr>
+<b>50D7 D465 F9FB DA75</b>
+
+
