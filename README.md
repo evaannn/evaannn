@@ -7,8 +7,7 @@
 <sup> i run <a href='https://lulzb.in'>lulzb.in</a> and other tomfoolery projects lol </sup>
 
 
-<hr>
-<br>
+### socials: [solo.to](https://solo.to/cyberterrorism) (should have all of them)
 
 <pre>$ keybase pgp pull evan</pre>
 <code>50D7 D465 F9FB DA75</code>
