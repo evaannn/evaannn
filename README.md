@@ -8,7 +8,7 @@
 
 
 ### socials: [solo.to](https://solo.to/cyberterrorism) (should have all of them)
-
+### mastodon: [@evn](https://mstdn.social/@evn), [@evan](https://x0r.be/@evan)
 <pre>$ keybase pgp pull evan</pre>
 <code>50D7 D465 F9FB DA75</code>
 
